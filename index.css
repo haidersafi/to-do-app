@@ -1,0 +1,26 @@
+body{
+    background-color: #FF7043;
+    font-family: 'Grenze Gotisch', cursive;
+}
+.btn,button{
+background-color: brown;
+border-color: brown;
+border-radius: 5px;
+margin-right: 5px;
+font-family: 'Grenze Gotisch', cursive;
+font-size: 20px;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+li{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+input{
+    background-color: #FFCCBC;
+    border-color: #FFCCBC;
+    border-radius: 5px;
+    padding:15px;
+    font-size: 15px;
+}
